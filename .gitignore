@@ -1,0 +1,13 @@
+# collider.jam
+.meta.cache
+units.json
+*.local
+
+# collider.jam output
+out*
+dist*
+*.out
+
+# macOS
+*.DS_Store
+
